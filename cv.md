@@ -4,11 +4,11 @@
 Email: thexfiles116@gmail.com
 Discrod: Delerium #9059
 Telegram: @delerium_116
-****
+----
 ## About me:
 
 > I love teaching and to learn new things. Frontend is a huge are of knowledge, that is new for me. There is so interesting to dive in it.
-****
+---
 ## Skills:
 
 Git
@@ -18,10 +18,10 @@ HTML
 CSS
 JS
 React
-****
++++
 ## Example:
 
-[Snail Sort][https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/javascript]
+[Snail Sort] (https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/javascript)
 ```
 snail = function (array) {
   let result = [];
@@ -46,7 +46,7 @@ snail = function (array) {
   return result;
 };
 ```
-****
+++++
 ## Expiriens:
 
 2014-15 - Отдел образования, спорта и туризма Гродненского райисполкома
