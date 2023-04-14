@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  border: 1px red solid;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navigation {
+  width: 100%;
+}
+
+.photo {
+  width: 30%;
+}
+
+.logo {
+  width: 70%;
+}
