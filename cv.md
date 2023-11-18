@@ -27,14 +27,8 @@ Hi. My name is Sergey. I like programming, to play chess and to solve logical ta
 > Generates an array of odd numbers of the specified length
 
 ```
-function generateOddArray(length) {
-    const oddsArr = [];
-    for (let i = 1; oddsArr.length < length; i++) {
-        if (i % 2) {
-            oddsArr.push(i);
-        }
-    }
-    return oddsArr;
+function createOddsArray(length) {
+    return Array(length).fill("").map((_, index) => index*2+1);
 }
 ```
 
@@ -47,8 +41,8 @@ function generateOddArray(length) {
 
 ## Education
 
-2001-2009 - Gymnasium No. 1, Lida
-2009-2014 - GrSU, Department of Modern Programming Technologies
+- 2001-09 - Gymnasium No. 1, Lida
+- 2009-14 - GrSU, Department of Modern Programming Technologies
 
 ## English
 
