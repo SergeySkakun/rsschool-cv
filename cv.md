@@ -31,3 +31,18 @@ function createOddsArray(length) {
     return Array(length).fill("").map((_, index) => index*2+1);
 }
 ```
+## Work experience
+
+- 2014 - Grodno District Executive Committee, software engineer
+- 2014-16 - LLC BelCrystalService Maintenance Center, software engineer
+- 2017-22 - Department of Labor, Employment and Social Protection
+- 2022-24 - State Unitary Enterprise Lida Housing and Communal Services, electronics engineer
+
+## Education
+
+- 2001-09 - Gymnasium No. 1, Lida
+- 2009-14 - GrSU, Department of Modern Programming Technologies
+
+## English
+
+A2
