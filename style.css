@@ -1,16 +1,60 @@
 .wrapper {
-  margin: 0 auto;
+  margin: 20px auto;
+  padding: 15px;
   width: 1024px;
+  background-color: cadetblue;
+}
+
+section {
+  padding: 3% 0 3% 3%;
+  /* padding-left: 2%;
+  padding-bottom: 2%; */
+}
+
+section, .wrapper {
+  border-radius: 5px;
+  box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.75);
+}
+
+.section-name {
+  padding-left: 1%;
+  padding-bottom: 2%;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .footer-links {
   margin: 0;
   padding: 0;
+  list-style-type: none;
+}
+
+.about-me-content {
+  display: flex;
+  flex-direction: row;
+  column-gap: 3%;
+  align-items: center;
+}
+
+.my-photo {
+  margin-left: 2%;
+  height: 150px;
+}
+
+
+.code-description, .code, .english-level {
+  margin-left: 2%;
+}
+
+.code-description {
+  font-style: oblique;
+}
+
+.footer-links {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  list-style-type: none;
 }
 
 .github-link{
