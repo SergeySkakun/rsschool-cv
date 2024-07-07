@@ -6,5 +6,97 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
   </head>
-  <body></body>
+  <body>
+    <header>
+      <div class="wrapper">
+        <h1 class="title">Sergey Skakun CV</h1>
+        <nav>
+          <ul class="navigation">
+            <li><a href="#about-me">About me</a></li>
+            <li><a href="#section-name">Contact Information</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#code-example">Code Examples</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#english">English</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="wrapper">
+        <section id="about-me">
+          <h2 class="section-name">About me</h2>
+          <div class="about-me-content">
+            <img class="my-photo" src="https://avatars.githubusercontent.com/u/25349867?s=400&u=9a7e8ac7bd9258b85c2a57d83fc3015b29565132&v=4" alt="my photo">
+            <p>Hi. My name is Sergey. I like programming, to play chess and to solve logical tasks. Programming doesn’t ever stop developing,
+            that must to learn new technologies and approaches. Your brain will be always “in motion”, if you are a programmer.
+            That is the main reason I like programming.</p>
+          </div>
+        </section>
+        <section id="contacts">
+          <h2 class="section-name">Contact Information</h2>
+          <ul class="skills-section">
+            <li>Discord: @SergeySkakun</li>
+            <li>Email: sergeylearn116@gmail.com</li>
+          </ul>
+        </section>
+        <section id="skills">
+          <h2 class="section-name">Skills</h2>
+          <ul class="skills-list">
+            <li>HTML5</li>
+            <li>CSS 3.0</li>
+            <li>JavaScript</li>
+            <li>Git & GitHub</li>
+            <li>npm</li>
+            <li>Figma</li>
+          </ul>
+        </section>
+        <section id="code-example">
+          <h2 class="section-name">Code Examples</h2>
+          <p class="code-description">Generates an array of odd numbers of the specified length</p>
+          <pre class="code">function createOddsArray(length) {
+            return Array(length).fill("").map((_, index) => index*2+1);
+}
+        </pre>
+        </section>
+        <section id="projects">
+          <h2 class="section-name">Projects</h2>
+          <ul>
+            <li><a href="https://github.com/SergeySkakun/rsschool-cv">CV#3. CV. Cross-Check</a></li>
+            <li><a href="https://github.com/SergeySkakun/towel-sort">Towel Sort</a></li>
+          </ul>
+        </section>
+        <section id="education">
+          <h2 class="section-name">Education</h2>
+          <ul>
+            <li>2001-09 - Gymnasium No. 1, Lida</li>
+            <li>2009-14 - GrSU, Department of Modern Programming Technologies</li>
+          </ul>
+        </section>
+        <section id="english">
+          <h2 class="section-name">English</h2>
+          <p class="english-level">A1/A2</p>
+        </section>
+      </div>
+    </main>
+    <footer>
+      <div class="wrapper">
+        <ul class="footer-links">
+          <li>
+            <a class="github-link" href="https://github.com/SergeySkakun/">
+              <img class="footer-logo" src="./logo-github.png" alt="github logo">
+              My GitHub
+            </a>
+          </li>
+          <li>© 2024</li>
+          <li>
+            <a href="https://rs.school/courses/javascript-ru">
+              <img class="footer-logo" src="./logo-rsschool.png" alt="rsschool logo">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+  </body>
 </html>
