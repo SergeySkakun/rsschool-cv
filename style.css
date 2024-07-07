@@ -1,8 +1,29 @@
+a {
+  text-decoration: none;
+}
+
 .wrapper {
   margin: 20px auto;
   padding: 15px;
   width: 1024px;
   background-color: cadetblue;
+}
+
+header {
+  position: sticky;
+}
+
+.title {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.navigation {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 section {
