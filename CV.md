@@ -1,5 +1,7 @@
 # Sergey Skakun
 
+![My photo](https://avatars.githubusercontent.com/u/25349867?s=400&u=9a7e8ac7bd9258b85c2a57d83fc3015b29565132&v=4)
+
 ## Contact Information
 
 - **Discord**: delerium9059
