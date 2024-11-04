@@ -69,3 +69,11 @@ class PaginationHelper {
 - [2016-2022] - Department of Labor, Employment and Social Protection, care for a disabled person
 - [2022-2023] - State Unitary Enterprise Lida Housing and Communal Services, electronics engineer
 - [2023-2024] - Department of Labor, Employment and Social Protection, care for a disabled person
+
+## Education
+
+2014, GrSU, Department of Modern Programming Technologies, a bachelor of since
+
+## English
+
+A1/A2
