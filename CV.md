@@ -61,3 +61,11 @@ class PaginationHelper {
 	}
 }
 ```
+
+## Work Experience
+
+- [2014-2014] - Grodno District Executive Committee, software engineer
+- [2014-2016] - LLC BelCrystalService Maintenance Center, software engineer
+- [2016-2022] - Department of Labor, Employment and Social Protection, care for a disabled person
+- [2022-2023] - State Unitary Enterprise Lida Housing and Communal Services, electronics engineer
+- [2023-2024] - Department of Labor, Employment and Social Protection, care for a disabled person
